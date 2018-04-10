@@ -13,3 +13,5 @@ function countLetters(inStr) {
 
 console.log(countLetters("lighthouse in the house"));
 console.log(countLetters("the quick brown fox jumped over the lazy dog"));
+
+//test
